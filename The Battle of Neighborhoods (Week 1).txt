@@ -1,0 +1,17 @@
+A description of the problem
+
+"Is opening a security company in south Africa a right decision to make?"
+
+Jack wants to open a Security Company so He asked this question “Would the company be successful in South Africa?” The crime rates in South Africa are high and people feel unsafe.
+Jack also had criminals rob his house in 2017. 
+
+
+Description of the data
+
+We will check the crime stats in South Africa 
+Check the areas affected with crime 
+Check the number of security companies around SA 
+Check the security equipment’s to be used
+
+After gathering all this data the stats will show us where there is a need for security and where there is high crime rate in South Africa 
+
